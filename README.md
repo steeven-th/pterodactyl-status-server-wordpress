@@ -8,7 +8,7 @@
 <h3 align="center">Pterodactyl games servers status for WordPress</h3>
 
   <p align="center">
-    Allows you to see all the information of your game servers from the Pterodactyl Panel !
+    Allows you to see all the information of your game servers from the Pterodactyl Panel on your website !
     <br />
 
 
