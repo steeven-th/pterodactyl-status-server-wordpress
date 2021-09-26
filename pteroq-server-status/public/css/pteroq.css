@@ -1,0 +1,73 @@
+/* DISPLAY STATE SERVERS */
+
+.server-box-online {
+    background-color: #dff0d8;
+}
+
+.servertitle-online {
+    color: #dff0d8 !important;
+    background: #3c763d;
+    border: 1px solid #e2e2e2;
+    padding: 0.5em 0.8em;
+    border-radius: 0.4em;
+}
+
+.is-online {
+    color: #3c763d !important;
+    border: 1px solid;
+    padding: 0.5em;
+    border-radius: 0.3em;
+}
+
+.is-online-left {
+    color: #3c763d !important;
+    border-left: 5px solid #d6e9c6;
+}
+
+.server-box-offline {
+    background-color: #fcf8e3;
+}
+
+.servertitle-offline {
+    color: #fcf8e3 !important;
+    background: #8a6d3b;
+    border: 1px solid #e2e2e2;
+    padding: 0.5em 0.8em;
+    border-radius: 0.4em;
+}
+
+.is-offline {
+    color: #8a6d3b !important;
+    border: 1px solid;
+    padding: 0.5em;
+    border-radius: 0.3em;
+}
+
+.is-offline-left {
+    color: #8a6d3b !important;
+    border-left: 5px solid #faebcc;
+}
+
+.server-box-down {
+    background-color: #f2dede;
+}
+
+.servertitle-down {
+    color: #f2dede !important;
+    background: #a94442;
+    border: 1px solid #e2e2e2;
+    padding: 0.5em 0.8em;
+    border-radius: 0.4em;
+}
+
+.is-down {
+    color: #a94442 !important;
+    border: 1px solid;
+    padding: 0.5em;
+    border-radius: 0.3em;
+}
+
+.is-down-left {
+    color: #a94442 !important;
+    border-left: 5px solid #ebccd1;
+}
