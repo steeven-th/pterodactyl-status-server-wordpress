@@ -143,12 +143,6 @@ You can buy me a coffee to support me **this plugin is 100% free**.
 
 [Buy me a coffee](https://www.buymeacoffee.com/steeven.th)
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 <!-- CONTACT -->
 
 ## Contact
