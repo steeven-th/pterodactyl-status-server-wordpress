@@ -21,6 +21,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#translations">Translations</a></li>
       </ul>
     </li>
     <li>
@@ -31,8 +32,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#bug and idea">Bug and Idea</a></li>
-    <li><a href="#support me">Support me</a></li>
+    <li><a href="#bug-and-idea">Bug and Idea</a></li>
+    <li><a href="#support-me">Support me</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -60,6 +61,13 @@ acknowledgements section. Here are a few examples.
 * [Pterodactyl API](https://dashflo.net/docs/api/pterodactyl/v1/)
 * [Wordpress](https://wordpress.com/)
 * [PHP](https://www.php.net)
+
+### Translations
+
+This plugin has two translations :
+
+- English
+- French
 
 <!-- GETTING STARTED -->
 
