@@ -44,7 +44,7 @@
 
 ## About The Project
 
-![Front games servers list](pteroq-server-status/admin/images/front-game-server.png)
+![Front games servers list](images/front-game-server.png)
 
 Hosting game servers for friends, they needed to be able to see the status of the servers quickly and easily.
 
@@ -76,7 +76,7 @@ You need to set up an API server key with read permission. Follow these steps :
 - Select 'Read' for Allocations, Eggs, Locations, Nests, Servers (you can select all if you prefer)
 - Make sure you register the key provided
 
-![Front games servers list](pteroq-server-status/admin/images/api-server.png)
+![Front games servers list](images/api-server.png)
 
 #### Pterodactyl Panel - API key client
 
@@ -88,9 +88,9 @@ You need to set up an API client key with read permission. Follow these steps :
 - Click on 'Create'
 - Make sure you register the key provided
 
-![Front games servers list](pteroq-server-status/admin/images/api-client-1.png)
-![Front games servers list](pteroq-server-status/admin/images/api-client-2.png)
-![Front games servers list](pteroq-server-status/admin/images/api-client-3.png)
+![Front games servers list](images/api-client-1.png)
+![Front games servers list](images/api-client-2.png)
+![Front games servers list](images/api-client-3.png)
 
 #### Pterodactyl Panel - informations
 
@@ -108,7 +108,7 @@ You need the following information :
 4. Go to the new menu `Pterodactyl server status / Settings`
 5. Enter the information retrieved previously
 
-![Front games servers list](pteroq-server-status/admin/images/back-settings.png)
+![Front games servers list](images/back-settings.png)
 
 <!-- USAGE EXAMPLES -->
 
@@ -116,7 +116,7 @@ You need the following information :
 
 To add a server, go to Add server and add the first part of the UUID. You can find it in your server settings.
 
-![Front games servers list](pteroq-server-status/admin/images/uuid.png)
+![Front games servers list](images/uuid.png)
 
 After adding it, you will find it in the list of servers.
 
