@@ -16,7 +16,6 @@ load_plugin_textdomain('pteroq-game-server-status', false, "$languageDirectory/l
 
 $errors = array();
 $table_name_table_pteroq = $wpdb->prefix . 'pteroq_game_servers';
-$table_name_table_pteroq_game_list = $wpdb->prefix . 'pteroq_game_list';
 $table_name_table_pteroq_api_settings = $wpdb->prefix . 'pteroq_api_settings';
 
 function searchParamServer($id, $type) {
