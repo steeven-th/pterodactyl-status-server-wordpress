@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://cdn.pterodactyl.io/logos/new/pterodactyl_logo_transparent.png" alt="Logo" height="80">
+  <a href="https://github.com/steeven-th/pterodactyl-status-server-wordpress">
+    <img src="images/pterodactyl-plugin-wordpress.png" alt="Logo" height="80">
   </a>
 
 <h3 align="center">Pterodactyl games servers status for WordPress</h3>
