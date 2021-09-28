@@ -75,6 +75,10 @@ This plugin has two translations :
 
 ### Requirements
 
+#### PHP Curl
+
+You must have PHP Curl installed on the server that hosts your Wordpress website
+
 #### Pterodactyl Panel - API key server
 
 You need to set up an API server key with read permission. Follow these steps :
