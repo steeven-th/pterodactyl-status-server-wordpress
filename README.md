@@ -41,6 +41,8 @@
 
 # **Test with Wordpress 5.8.1**
 
+# **Version 1.0.1**
+
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project

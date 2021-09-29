@@ -4,7 +4,7 @@ Plugin Name: Pterodactyl games servers status
 Plugin URI: https://github.com/steeven-th/pterodactyl-status-server-wordpress
 Description: Allows you to see all the information of your game servers from the Pterodactyl Panel
 Author: Steeven
-Version: 1.0
+Version: 1.0.1
 Author URI: https://steeven-th.dev
 Text Domain: pteroq-game-server-status
 Domain Path: /languages/

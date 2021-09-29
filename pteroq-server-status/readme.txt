@@ -4,7 +4,7 @@ Donate link: https://steeven-th.dev/
 Tags: servers, live status, pterodactyl, game, live server status, widget, shortcodes
 Requires at least: 5.8.1
 Tested up to: 5.8.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,5 +50,6 @@ The source engine supports games made with Source & GoldSource engine.For exampl
 
 == Changelog ==
 
-= 1.0.0 =
-* Initial release
+= 1.0.1 =
+* update documentation for shortcode
+* fixed a bug if the curl request was null
