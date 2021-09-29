@@ -99,7 +99,7 @@ defined('ABSPATH') or die('Get out.');
 
 <strong style="color: cornflowerblue">
     <code>
-        [game-servers server_id="1"]
+        [pteroq-game-servers server_identifier="1"]
     </code>
 </strong>
 
@@ -111,7 +111,7 @@ defined('ABSPATH') or die('Get out.');
 
 <strong style="color: cornflowerblue">
     <code>
-        [game-servers server_id="1" display="server_name"]
+        [pteroq-game-servers server_identifier="1" display="server_name"]
     </code>
 </strong>
 
