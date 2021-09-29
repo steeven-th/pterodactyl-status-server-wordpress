@@ -16,6 +16,7 @@ With our plugin you can simply use widgets and shortcodes to display your game s
 
 **Special Requirements**
 
+* PHP Curl
 * Pterodactyl Panel - API key server
 * Pterodactyl Panel - API key client
 
