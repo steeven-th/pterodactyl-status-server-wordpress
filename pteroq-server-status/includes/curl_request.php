@@ -31,6 +31,10 @@ function serverAttributes($urlApi, $apiKey, $id, $typeOfAttribute) {
     // SELECTION OF THE DESIRED ELEMENTS
     /*----------------------*/
 
+    if ($array == null) {
+        return $return;
+    }
+
     if ($typeOfAttribute == 'name') {
         $return = $array["attributes"]["name"];
     } else if ($typeOfAttribute == 'connectionport') {
