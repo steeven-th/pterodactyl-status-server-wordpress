@@ -35,7 +35,7 @@ if (!empty($_GET['api_key_id'])) {
 if (!empty($_POST)) {
 
     /* Possible error checks */
-    $fields = array('api_key_server', 'api_key_client', 'api_server_address', 'api_server_protocol', 'api_server_port');
+    $fields = array('api_key_server', 'api_key_client', 'api_server_address', 'api_server_protocol');
 
     foreach ($_POST as $key => $value) {
         if (empty($value) && in_array($key, $fields) == true) {
