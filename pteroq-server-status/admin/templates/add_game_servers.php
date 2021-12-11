@@ -91,7 +91,7 @@ if (!empty($_POST)) {
         }
 
     } else {
-        display_errors($errors);
+        sthomas_pteroq_display_errors($errors);
     }
 }
 

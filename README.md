@@ -41,7 +41,7 @@
 
 # **Test with Wordpress 5.8.1**
 
-# **Version 1.0.1**
+# **Version 1.0.2**
 
 <!-- ABOUT THE PROJECT -->
 

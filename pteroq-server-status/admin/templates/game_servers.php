@@ -34,7 +34,7 @@ if (!empty($_GET['server_id'])) {
         echo '<div class="updated"><p>' . __('The server was successfully deleted from the database !', 'pteroq-game-server-status') . '</p></div>';
 
     } else {
-        display_errors($errors);
+        sthomas_pteroq_display_errors($errors);
     }
 }
 
@@ -79,7 +79,7 @@ $servers = $wpdb->get_results("SELECT * FROM `{$table_name_table_pteroq}` ORDER 
                     $idServer = $server->server_identifier;
 
                     if ($err && strcmp($lastError, $err) !== 0) {
-                        display_errors($err);
+                        sthomas_pteroq_display_errors($err);
                     }
 
                     $lastError = $err;

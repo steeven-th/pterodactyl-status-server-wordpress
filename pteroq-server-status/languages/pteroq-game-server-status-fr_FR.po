@@ -1,0 +1,485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pteroq server status\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-25 09:51+0000\n"
+"PO-Revision-Date: 2021-09-26 07:57+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Domain: pteroq-game-server-status"
+
+#: admin/templates/game_servers.php:122
+msgid "<= SERVER NOT FOUND - CHECK ID"
+msgstr "<= Serveur non trouvé - Vérifiez l'ID"
+
+#: admin/templates/api_setup.php:215 admin/templates/game_servers.php:69
+msgid "Actions"
+msgstr "Actions"
+
+#: includes/settings.php:59 admin/templates/add_game_servers.php:104
+msgid "Add Game Server"
+msgstr "Ajouter un serveur"
+
+#: admin/templates/game_servers.php:54
+msgid "Add New"
+msgstr "Ajouter"
+
+#: admin/templates/api_setup.php:42 admin/templates/add_game_servers.php:42
+msgid "All the fields are required !"
+msgstr "Tous les champs sont requis"
+
+#. Description of the plugin
+msgid ""
+"Allows you to see all the information of your game servers from the "
+"Pterodactyl Panel"
+msgstr ""
+"Permet de voir toutes les informations de vos serveurs de jeux à partir du "
+"Panel Pterodactyl"
+
+#: admin/templates/game_servers.php:140
+msgid "Are you sure you want to do this ?"
+msgstr "Etes-vous sûr de vouloir faire ça ?"
+
+#: admin/templates/api_setup.php:174 admin/templates/add_game_servers.php:116
+msgid "ATTENTION :"
+msgstr "ATTENTION :"
+
+#: admin/templates/api_setup.php:187
+msgid "ATTENTION : if you use port 80, leave this option blank"
+msgstr "ATTENTION : si vous utilisez le port 80, laissez cette option vide"
+
+#: admin/templates/game_servers_documentation.php:80
+msgid ""
+"ATTENTION : make sure you know which is the server key and which is the "
+"client\n"
+"    key"
+msgstr ""
+"ATTENTION : assurez-vous de savoir quelle est la clé du serveur et quelle "
+"est la clé du client"
+
+#: admin/templates/game_servers_documentation.php:94
+#, fuzzy
+msgid "Basic Shortcode use"
+msgstr "Utilisation basique des shortcodes"
+
+#: admin/templates/game_servers_documentation.php:144
+msgid "Can I set up two Pterodactyl Panels ?"
+msgstr "Puis-je installer deux Panels Pterodactyl ?"
+
+#: admin/templates/game_servers_documentation.php:50
+msgid ""
+"Click on <strong\n"
+"                        style=\"color: cornflowerblue\">'Create'</strong>"
+msgstr ""
+"Cliquez sur <strong\n"
+"                        style=\"color : cornflowerblue\">'Create'</strong>"
+
+#: admin/templates/game_servers_documentation.php:43
+#, fuzzy
+msgid ""
+"Click on <strong style=\"color: cornflowerblue\">'API\n"
+"                    Credentials'</strong>"
+msgstr ""
+"Cliquez sur <strong style=\"color : cornflowerblue\">'API\n"
+"                    Credentials'</strong>"
+
+#: admin/templates/game_servers_documentation.php:18
+msgid ""
+"Click on <strong style=\"color: cornflowerblue\">'Create\n"
+"                    New'</strong>"
+msgstr ""
+"Cliquez sur <strong style=\"color : cornflowerblue\">'Create\n"
+"                    New'</strong>"
+
+#: admin/templates/game_servers_documentation.php:40
+#, fuzzy
+msgid "Click on your username at the top right"
+msgstr "Cliquez sur votre nom d'utilisateur en haut à droite"
+
+#: admin/templates/api_setup.php:144 admin/templates/api_setup.php:213
+msgid "Client API key"
+msgstr "Clé API client"
+
+#: admin/templates/game_servers.php:65
+msgid "Connection Port"
+msgstr "Port de connexion"
+
+#: admin/templates/game_servers.php:140
+msgid "Delete"
+msgstr "Supprimer"
+
+#: admin/templates/widget.php:12
+msgid "Display live statistics for your game server of Pterodactyl Panel"
+msgstr ""
+"Affichez les statistiques en direct pour votre serveur de jeu du Panel "
+"Pterodactyl"
+
+#: includes/settings.php:75
+msgid "Documentation"
+msgstr "Documentation"
+
+#: admin/templates/api_setup.php:226 admin/templates/game_servers.php:137
+msgid "Edit"
+msgstr "Editer"
+
+#: admin/templates/api_setup.php:126
+msgid "Edit API settings"
+msgstr "Editer les paramètres de l'API"
+
+#: admin/templates/add_game_servers.php:104
+msgid "Edit Server"
+msgstr "Editer un serveur"
+
+#: admin/templates/game_servers_documentation.php:47
+#, fuzzy
+msgid "Enter a description for your Key"
+msgstr "Entrez une description pour votre clé"
+
+#: admin/templates/game_servers.php:134
+msgid "ERROR"
+msgstr "ERREUR"
+
+#: admin/templates/game_servers.php:67
+msgid "Game Engine"
+msgstr "Moteur de jeu"
+
+#: includes/settings.php:51
+msgid "Game Server"
+msgstr "Serveurs"
+
+#: admin/templates/game_servers_documentation.php:106
+#, fuzzy
+msgid "Get specific details of a server"
+msgstr "Obtenir les détails spécifiques d'un serveur"
+
+#: admin/templates/game_servers_documentation.php:14
+#, fuzzy
+msgid ""
+"Go to <strong style=\"color: cornflowerblue\">'Administration\n"
+"                    Panel / Application API'</strong>"
+msgstr ""
+"Allez dans <strong style=\"color : cornflowerblue\">'Administration\n"
+"                    Panel / Application API'</strong>"
+
+#. URI of the plugin
+msgid "https://github.com/steeven-th/pterodactyl-status-server-wordpress"
+msgstr "https://github.com/steeven-th/pterodactyl-status-server-wordpress"
+
+#. Author URI of the plugin
+msgid "https://itech-world.fr"
+msgstr "https://itech-world.fr"
+
+#: admin/templates/game_servers_documentation.php:107
+msgid ""
+"If you want to get a specific data from a server you will need to specify "
+"the\n"
+"    <strong>display</strong>\n"
+"    parameter."
+msgstr ""
+"Si vous voulez obtenir une donnée spécifique à partir d'un serveur, vous "
+"devrez spécifier le paramètre <strong>display</strong>."
+
+#: admin/templates/api_setup.php:176
+msgid "Like this example : 80.70.60.50"
+msgstr "Comme cet exemple : 80.70.60.50"
+
+#: admin/templates/add_game_servers.php:118
+msgid ""
+"Like this example : <span class=\"add-server-ip\">7e3340f0</span>-acb6-4eb8-"
+"bf41-54a6938e80d2"
+msgstr ""
+"Comme cet exemple : <span class=\"add-server-ip\">7e3340f0</span>-acb6-4eb8-"
+"bf41-54a6938e80d2"
+
+#: admin/templates/game_servers_documentation.php:91
+#, fuzzy
+msgid ""
+"Make sure you have at least 1 server added to the database before trying to "
+"add a shortcode\n"
+"    !"
+msgstr ""
+"Assurez-vous que vous avez au moins 1 serveur ajouté à la base de données "
+"avant d'essayer d'ajouter un shortcode\n"
+"    !"
+
+#: admin/templates/game_servers_documentation.php:27
+#: admin/templates/game_servers_documentation.php:54
+#, fuzzy
+msgid "Make sure you register the key provided"
+msgstr "Assurez-vous d'enregistrer la clé fournie"
+
+#: admin/templates/game_servers.php:63
+msgid "Name"
+msgstr "Nom"
+
+#: admin/templates/game_servers_documentation.php:147
+msgid ""
+"Only one Pterodactyl Panel can be configured in the settings for the\n"
+"        moment"
+msgstr ""
+"Un seul Panel Pterodactyl peut être configuré dans les paramètres pour le "
+"moment"
+
+#: admin/templates/game_servers.php:66
+msgid "Other Ports"
+msgstr "Autres ports"
+
+#: includes/shortcodes.php:58 includes/shortcodes.php:65
+msgid "Other ports : "
+msgstr "Autres ports : "
+
+#: admin/templates/game_servers_documentation.php:139
+msgid ""
+"Please check that the server ID is correct or that the server\n"
+"        exists"
+msgstr ""
+"Veuillez vérifier que l'ID du serveur est correct ou que le serveur existe"
+
+#: admin/templates/api_setup.php:175
+msgid "Please insert just your IP of Pterodactyl Panel, without protocol"
+msgstr ""
+"Veuillez insérer uniquement votre IP du Panel Pterodactyl, sans protocole"
+
+#: admin/templates/add_game_servers.php:117
+msgid "Please insert the first set of digits of the server UUID"
+msgstr "Veuillez insérer les premiers chiffres de l'UUID du serveur."
+
+#: admin/templates/api_setup.php:203
+msgid "Pterodactyl API settings"
+msgstr "Paramètres de l'API Pterodactyl"
+
+#: admin/templates/widget.php:11
+msgid "Pterodactyl game Server"
+msgstr "Serveurs de jeux Pterodactyl"
+
+#: admin/templates/game_servers.php:52
+msgid "Pterodactyl Game Servers List"
+msgstr "Liste des serveurs de jeux Pterodactyl"
+
+#: admin/templates/game_servers_documentation.php:35
+msgid "Pterodactyl Panel - API key client"
+msgstr "Pterodactyl Panel - clé API client"
+
+#: admin/templates/game_servers_documentation.php:10
+msgid "Pterodactyl Panel - API key server"
+msgstr "Pterodactyl Panel - clé API serveur"
+
+#: admin/templates/game_servers_documentation.php:62
+#, fuzzy
+msgid "Pterodactyl Panel - informations"
+msgstr "Panneau Ptérodactyle - informations"
+
+#. the page title
+#: includes/settings.php:41 includes/settings.php:42 includes/settings.php:50
+#: includes/settings.php:58 includes/settings.php:66 includes/settings.php:74
+msgid "Pterodactyl server status"
+msgstr "Serveurs Pterodactyl"
+
+#. Name of the plugin
+msgid "Pteroq server status"
+msgstr "Pterodactyl server status"
+
+#: admin/templates/game_servers_documentation.php:7
+#| msgid "Requirements !"
+msgid "Requirements"
+msgstr "Prérequis"
+
+#: admin/templates/game_servers_documentation.php:22
+msgid ""
+"Select <strong style=\"color: cornflowerblue\">'Read'</strong> for <strong\n"
+"                        style=\"color: cornflowerblue\">Allocations, Eggs, "
+"Locations, Nests, Servers</strong>\n"
+"                (you can select all if you prefer)"
+msgstr ""
+"Sélectionnez <strong style=\"color : cornflowerblue\">'Read'</strong> pour "
+"<strong\n"
+"                        style=\"color : cornflowerblue\">Allocations, Eggs, "
+"Locations, Nests, Servers</strong>\n"
+"                (vous pouvez tout sélectionner si vous préférez)"
+
+#: admin/templates/widget.php:30
+msgid "Server"
+msgstr "Serveur"
+
+#: admin/templates/api_setup.php:170 admin/templates/api_setup.php:214
+msgid "Server API adress"
+msgstr "Adresse du serveur"
+
+#: admin/templates/api_setup.php:134 admin/templates/api_setup.php:212
+msgid "Server API key"
+msgstr "Clé API serveur"
+
+#: admin/templates/game_servers.php:62
+msgid "Server ID"
+msgstr "ID serveur"
+
+#: admin/templates/add_game_servers.php:112
+msgid "Server Identifier"
+msgstr "Identifiant serveur"
+
+#: admin/templates/game_servers.php:64
+msgid "Server IP"
+msgstr "IP serveur"
+
+#: includes/shortcodes.php:55 includes/shortcodes.php:64
+msgid "Server IP : "
+msgstr "IP serveur : "
+
+#: admin/templates/api_setup.php:183
+msgid "Server port address"
+msgstr "Port du serveur"
+
+#: admin/templates/api_setup.php:154
+msgid "Server protocol adress"
+msgstr "Protocole du serveur"
+
+#: admin/templates/game_servers.php:68
+msgid "Server State"
+msgstr "Statut du serveur"
+
+#: includes/settings.php:67
+msgid "Settings"
+msgstr "Paramètres"
+
+#: public/templates/widget.php:26
+msgid "Status :"
+msgstr "Statut : "
+
+#: includes/shortcodes.php:52 includes/shortcodes.php:63
+msgid "Status : "
+msgstr "Statut : "
+
+#. Author of the plugin
+msgid "Steeven - iTech-World"
+msgstr "Steeven - iTech-World"
+
+#: admin/templates/api_setup.php:195 admin/templates/add_game_servers.php:125
+msgid "Submit"
+msgstr "Envoyer"
+
+#: admin/templates/game_servers_documentation.php:118
+msgid ""
+"That will only output the name of the server.Possible values for the "
+"<strong\n"
+"            style=\"color: cornflowerblue\">'display'</strong>\n"
+"    parameter"
+msgstr ""
+"Cela n'affichera que le nom du serveur. Valeurs possibles pour le paramètre "
+"<strong\n"
+"            style=\"color : cornflowerblue\">'display'</strong>"
+
+#: admin/templates/game_servers_documentation.php:69
+msgid "The IP address of your Pterodactyl Panel"
+msgstr "L'adresse IP de votre Panel Pterodactyl"
+
+#: admin/templates/game_servers_documentation.php:72
+msgid "The PORT of your Pterodactyl Panel"
+msgstr "Le PORT de votre Panel Pterodactyl"
+
+#: admin/templates/game_servers_documentation.php:66
+msgid "The PROTOCOLE of your address of your Pterodactyl Panel"
+msgstr "Le PROTOCOLE de l'adresse de votre Panel Ptérodactyle"
+
+#: admin/templates/game_servers_documentation.php:134
+#, fuzzy
+msgid ""
+"The server status is <span style=\"color: darkred\">404</span> and the name "
+"is <span\n"
+"                    style=\"color: darkred\">SERVEUR NOT FOUND - CHECK "
+"ID</span>"
+msgstr ""
+"Le statut du serveur est <span style=\"color : darkred\">404</span> et le "
+"nom est <span\n"
+"                    style=\"color : darkred\">SERVEUR NOT FOUND - CHECK "
+"ID</span>"
+
+#: admin/templates/add_game_servers.php:86
+msgid "The server was successfully added to the database !"
+msgstr "Le serveur a été ajouté avec succès à la base de données !"
+
+#: admin/templates/game_servers.php:34
+msgid "The server was successfully deleted from the database !"
+msgstr "Le serveur a été supprimé avec succès de la base de données !"
+
+#: admin/templates/add_game_servers.php:71
+msgid "The server was successfully updated !"
+msgstr "Le serveur a été mis à jour avec succès !"
+
+#: admin/templates/api_setup.php:106
+msgid "The settings was successfully added to the database !"
+msgstr "Les paramètres ont été ajoutés avec succès à la base de données !"
+
+#: admin/templates/api_setup.php:87
+msgid "The settings was successfully updated !"
+msgstr "Les paramètres ont été mis à jour avec succès !"
+
+#: admin/templates/game_servers_documentation.php:85
+msgid ""
+"To configure the plugin, go to Settings in the admin\n"
+"    menu"
+msgstr ""
+"Pour configurer le plugin, allez dans la section Paramètres du menu "
+"d'administration"
+
+#: admin/templates/game_servers_documentation.php:153
+#, fuzzy
+msgid ""
+"You can contact me for support or to submit your ideas by clicking on the\n"
+"    icons"
+msgstr ""
+"Vous pouvez me contacter pour obtenir de l'aide ou pour soumettre vos idées "
+"en cliquant sur les\n"
+"    icônes"
+
+#: admin/templates/game_servers_documentation.php:95
+msgid ""
+"You must specify the <strong style=\"color: cornflowerblue\">"
+"'server_id'</strong> of the server you want to get\n"
+"    details. You can find the <strong style=\"color: cornflowerblue\">"
+"'server_id'</strong> in the <strong\n"
+"            style=\"color: cornflowerblue\">'Game server'</strong> menu in "
+"the admin\n"
+"    panel."
+msgstr ""
+"Vous devez spécifier le <strong style=\"color : cornflowerblue\">"
+"'server_id'</strong> du serveur dont vous voulez obtenir les\n"
+"    détails. Vous pouvez trouver le <strong style=\"color : cornflowerblue\">"
+"'server_id'</strong> dans la section <strong\n"
+"            style=\"color : cornflowerblue\">'Serveurs'</strong> du menu "
+"d'administration."
+
+#: admin/templates/game_servers_documentation.php:63
+#, fuzzy
+msgid "You need the following information"
+msgstr "Vous avez besoin des informations suivantes"
+
+#: admin/templates/game_servers_documentation.php:36
+msgid ""
+"You need to set up an API client key with read permission. Follow these steps"
+msgstr ""
+"Vous devez configurer une clé API client avec une autorisation de lecture. "
+"Suivez ces étapes"
+
+#: admin/templates/game_servers_documentation.php:11
+msgid ""
+"You need to set up an API server key with read permission. Follow these\n"
+"            steps"
+msgstr ""
+"Vous devez configurer une clé API serveur avec une autorisation de lecture. "
+"Suivez ces étapes"
+
+#: admin/templates/api_setup.php:48 admin/templates/add_game_servers.php:48
+#: admin/templates/game_servers.php:22
+msgid "Your nonce did not verify !"
+msgstr "Votre autorisation n'a pas pu être vérifiée !"
+
+#: includes/shortcodes.php:35 public/templates/widget.php:37
+msgid "Your selected server does not exist anymore !"
+msgstr "Le serveur que vous avez sélectionné n'existe plus !"
